@@ -1,7 +1,22 @@
 {
-  "Ride": "spotify:playlist:6VcmfbREyNjp0eMNQMTb7k",
-  "Vintage": "spotify:playlist:0DoRYulmv34yHgokKiP1ie",
-  "ROCK 'N' ROLL": "spotify:playlist:7FLU0Cpfh30Pm9ArBiIJqx",
-  "The Beatles" : "spotify:playlist:37i9dQZF1DZ06evO2iBPiw",
-  "Mi Marathi": "spotify:playlist:6NPkIM2BzTzt8FnkhLN9Xt"
+    "584613342101": {
+        "uri": "spotify:playlist:6VcmfbREyNjp0eMNQMTb7k",
+        "label": "Ride"
+    },
+    "584613014424": {
+        "uri": "spotify:playlist:0DoRYulmv34yHgokKiP1ie",
+        "label": "Vintage"
+    },
+    "584612686751": {
+        "uri": "spotify:playlist:7FLU0Cpfh30Pm9ArBiIJqx",
+        "label": "ROCK 'N' ROLL"
+    },
+    "584603446317": {
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO2iBPiw",
+        "label": "The Beatles"
+    },
+    "584612359074": {
+        "uri": "spotify:playlist:6NPkIM2BzTzt8FnkhLN9Xt",
+        "label": "Mi Marathi"
+    }
 }
